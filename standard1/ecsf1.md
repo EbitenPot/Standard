@@ -1,5 +1,7 @@
 # Ebiten-cli Project Standard Full 1.0
 
+[ECSF1](https://img.shields.io/static/v1?label=EPS&message=Ebiten-cli%20Project%20Standard%20Full%201.0&color=db5620&style=flat-square&link=https://github.com/ebitenpot/standard&link=https://github.com/EbitenPot/Standard/blob/master/standard1/ecsf1.md)
+
 > _**Waiting Translate...**_
 
 # Ebiten-cli 项目标准 完整 1.0
