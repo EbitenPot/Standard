@@ -1,0 +1,2 @@
+# Standard
+ EbitenPot Project Standard
