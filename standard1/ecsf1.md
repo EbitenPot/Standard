@@ -1,6 +1,6 @@
 # Ebiten-cli Project Standard Full 1.0
 
-[ECSF1](https://img.shields.io/static/v1?label=EPS&message=Ebiten-cli%20Project%20Standard%20Full%201.0&color=db5620&style=flat-square&link=https://github.com/ebitenpot/standard&link=https://github.com/EbitenPot/Standard/blob/master/standard1/ecsf1.md)
+[![ECSF1](https://img.shields.io/static/v1?label=EPS&message=Ebiten-cli%20Project%20Standard%20Full%201.0&color=db5620&style=flat-square&link=https://github.com/ebitenpot/standard&link=https://github.com/EbitenPot/Standard/blob/master/standard1/ecsf1.md)]()
 
 > _**Waiting Translate...**_
 
@@ -119,7 +119,7 @@ v1.0, 2022-02-02
 ## Go struct
 
 ```go
-type Project struct {
+type ECSFProject struct {
 	Game struct {
 		Name          string   `json:"name"`
 		Repo          string   `json:"repo"`
