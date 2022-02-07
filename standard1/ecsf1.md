@@ -6,6 +6,8 @@
 
 # Ebiten-cli 项目标准 完整 1.0
 
+> 警告:本项目处于开发阶段,任何行为都可能导致无法挽回的错误.
+
 [![GitHub license](https://img.shields.io/github/license/EldersJavas/ebiten-cli?logo=apache&logoColor=red&style=flat-square)](https://github.com/EldersJavas/ebiten-cli/blob/master/LICENSE)
 
 ## 目的

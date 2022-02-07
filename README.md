@@ -11,8 +11,8 @@ There are the Ebiten-cli and EbitenPot IDE Project Standard Formats
 
 - **Date**: 2022-02-02
 - **To**
-    - Ebiten-cli  >= 0.1
-    - EbitenPot >= 0.1 
+    - Ebiten-cli  >= 0.1 and <= 1
+    - EbitenPot >= 0.1 and <= 1
 - **Standard Files**
     - Ebiten-cli Project Standard Full 1.0 [![ECSF1](https://img.shields.io/static/v1?label=EPS&message=Ebiten-cli%20Project%20Standard%20Full%201.0&color=db5620&style=flat-square&link=https://github.com/ebitenpot/standard&link=https://github.com/EbitenPot/Standard/blob/master/standard1/ecsf1.md)](https://github.com/EbitenPot/Standard/blob/master/standard1/ecsf1.md)
     - Ebiten-cli Project Standard Thin 1.0 [![ECST1](https://img.shields.io/static/v1?label=EPS&message=Ebiten-cli%20Project%20Standard%20Thin%201.0&color=db5620&style=flat-square&link=https://github.com/ebitenpot/standard&link=https://github.com/EbitenPot/Standard/blob/master/standard1/ecst1.md)](https://github.com/EbitenPot/Standard/blob/master/standard1/ecst1.md)
@@ -24,3 +24,6 @@ There are the Ebiten-cli and EbitenPot IDE Project Standard Formats
 - **Go version**: >= 1.15
 - **Ebiten version**: >= 2.2
 - **License**: Apache License 2.0
+
+
+> 警告:本项目处于开发阶段,任何行为都可能导致无法挽回的错误.
